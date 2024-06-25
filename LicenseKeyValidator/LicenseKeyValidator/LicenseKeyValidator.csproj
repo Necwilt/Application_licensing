@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NETStandard.Library" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BitwiseShiftsHashPlugin">
+      <HintPath>bin\x86\Release\net6.0\BitwiseShiftsHashPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="GetID">
+      <HintPath>bin\x86\Release\net6.0\GetID.dll</HintPath>
+    </Reference>
+    <Reference Include="MultiplyAddHashPlugin">
+      <HintPath>bin\x86\Release\net6.0\MultiplyAddHashPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="SumOfSquaresHashPlugin">
+      <HintPath>bin\x86\Release\net6.0\SumOfSquaresHashPlugin.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

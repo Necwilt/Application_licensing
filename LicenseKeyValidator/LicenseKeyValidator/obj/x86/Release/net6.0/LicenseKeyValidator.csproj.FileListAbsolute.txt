@@ -1,0 +1,13 @@
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\bin\x86\Release\net6.0\LicenseKeyValidator.deps.json
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\bin\x86\Release\net6.0\LicenseKeyValidator.dll
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\bin\x86\Release\net6.0\LicenseKeyValidator.pdb
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.AssemblyInfo.cs
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.csproj.CopyComplete
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.dll
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\refint\LicenseKeyValidator.dll
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\LicenseKeyValidator.pdb
+C:\Users\nikit\source\repos\LicenseKeyValidator\LicenseKeyValidator\obj\x86\Release\net6.0\ref\LicenseKeyValidator.dll

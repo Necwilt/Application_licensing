@@ -1,0 +1,135 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LicenseKeyValidator/1.0.0": {
+        "dependencies": {
+          "BitwiseShiftsHashPlugin": "1.0.0.0",
+          "HardDiskIdPlugin": "1.0.0.0",
+          "MotherboardIdPlugin": "1.0.0.0",
+          "MultiplyAddHashPlugin": "1.0.0.0",
+          "ProcessorIdPlugin": "1.0.0.0",
+          "SumOfSquaresHashPlugin": "1.0.0.0"
+        },
+        "runtime": {
+          "LicenseKeyValidator.dll": {}
+        }
+      },
+      "BitwiseShiftsHashPlugin/1.0.0.0": {
+        "runtime": {
+          "BitwiseShiftsHashPlugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HardDiskIdPlugin/1.0.0.0": {
+        "runtime": {
+          "HardDiskIdPlugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MotherboardIdPlugin/1.0.0.0": {
+        "runtime": {
+          "MotherboardIdPlugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MultiplyAddHashPlugin/1.0.0.0": {
+        "runtime": {
+          "MultiplyAddHashPlugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ProcessorIdPlugin/1.0.0.0": {
+        "runtime": {
+          "ProcessorIdPlugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SumOfSquaresHashPlugin/1.0.0.0": {
+        "runtime": {
+          "SumOfSquaresHashPlugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Management/7.0.0.1": {
+        "runtime": {
+          "System.Management.dll": {
+            "assemblyVersion": "7.0.0.1",
+            "fileVersion": "7.0.523.17405"
+          }
+        }
+      },
+      "System.CodeDom/7.0.0.0": {
+        "runtime": {
+          "System.CodeDom.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LicenseKeyValidator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BitwiseShiftsHashPlugin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HardDiskIdPlugin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MotherboardIdPlugin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultiplyAddHashPlugin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProcessorIdPlugin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumOfSquaresHashPlugin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Management/7.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.CodeDom/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
