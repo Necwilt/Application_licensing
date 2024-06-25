@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Appium.WebDriver" Version="4.4.5" />
+    <PackageReference Include="Microsoft.CodeCoverage" Version="17.8.0" />
+    <PackageReference Include="OpenCover" Version="4.7.1221" />
+    <PackageReference Include="System.Management" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BitwiseShiftsHashPlugin">
+      <HintPath>bin\x86\Release\net6.0-windows\plugins\BitwiseShiftsHashPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="HardDiskIdPlugin">
+      <HintPath>bin\x86\Release\net6.0-windows\plugins\HardDiskIdPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="LicenseKeyValidator">
+      <HintPath>bin\x86\Release\net6.0-windows\LicenseKeyValidator.dll</HintPath>
+    </Reference>
+    <Reference Include="MotherboardIdPlugin">
+      <HintPath>bin\x86\Release\net6.0-windows\plugins\MotherboardIdPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="MultiplyAddHashPlugin">
+      <HintPath>bin\x86\Release\net6.0-windows\plugins\MultiplyAddHashPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="PluginInterfaces">
+      <HintPath>bin\Release\net6.0-windows\PluginInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ProcessorIdPlugin">
+      <HintPath>bin\x86\Release\net6.0-windows\plugins\ProcessorIdPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="SumOfSquaresHashPlugin">
+      <HintPath>bin\x86\Release\net6.0-windows\plugins\SumOfSquaresHashPlugin.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\bin\Release\net6.0\LicenseManagerNetCore.deps.json
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\bin\Release\net6.0\LicenseManagerNetCore.dll
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\bin\Release\net6.0\LicenseManagerNetCore.pdb
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.AssemblyInfo.cs
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.csproj.CopyComplete
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.dll
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\refint\LicenseManagerNetCore.dll
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\LicenseManagerNetCore.pdb
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\obj\Release\net6.0\ref\LicenseManagerNetCore.dll
+C:\Users\nikit\source\repos\LicenseManagerNetCore\LicenseManagerNetCore\bin\Release\net6.0\LicenseKeyValidator.dll

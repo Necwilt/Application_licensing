@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+    <OutputType>Library</OutputType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Appium.WebDriver" Version="4.4.5" />
+    <PackageReference Include="Microsoft.CodeCoverage" Version="17.8.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="3.1.1" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.1.1" />
+    <PackageReference Include="coverlet.collector" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="OpenCover" Version="4.7.1221" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Soft_Dev_Kursach\Soft_Dev_Kursach.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BitwiseShiftsHashPlugin">
+      <HintPath>..\Soft_Dev_Kursach\bin\Release\net6.0-windows\BitwiseShiftsHashPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="HardDiskIdPlugin">
+      <HintPath>..\Soft_Dev_Kursach\bin\Release\net6.0-windows\HardDiskIdPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="LicenseKeyValidator">
+      <HintPath>..\..\LicenseKeyValidator\LicenseKeyValidator\bin\x86\Release\net6.0\LicenseKeyValidator.dll</HintPath>
+    </Reference>
+    <Reference Include="MotherboardIdPlugin">
+      <HintPath>..\Soft_Dev_Kursach\bin\Release\net6.0-windows\MotherboardIdPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="MultiplyAddHashPlugin">
+      <HintPath>..\Soft_Dev_Kursach\bin\Release\net6.0-windows\MultiplyAddHashPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="PluginInterfaces">
+      <HintPath>..\Soft_Dev_Kursach\bin\Release\net6.0-windows\PluginInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ProcessorIdPlugin">
+      <HintPath>..\Soft_Dev_Kursach\bin\Release\net6.0-windows\ProcessorIdPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="SumOfSquaresHashPlugin">
+      <HintPath>..\Soft_Dev_Kursach\bin\Release\net6.0-windows\SumOfSquaresHashPlugin.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
